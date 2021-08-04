@@ -1,5 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
+Yes, I could not get my <aside> box to align with the bottom of the last <section> box. In my CSS file I tried to resize both the <sections> and the <aside> elements. I need to study CSS page layouts more.
+  
 <head>
 changed title from "website" to "Horiseon Social Solution Services, Inc."
 </head>
