@@ -74,10 +74,7 @@ p {
 }
 
 /* apply styles to each section element */
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+.search {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,12 +91,14 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 /* apply styles to the aside elements */
 aside {
-    margin-top: -640px;
     margin-right: 20px;
-    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
